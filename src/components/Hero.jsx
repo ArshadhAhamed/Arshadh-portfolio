@@ -45,7 +45,7 @@ const Hero = () => {
               tracking-tigher text-stone-600'>Hi, I'm a passionate Full-Stack Developer with expertise in building scalable and responsive web applications. I currently pursuing Master’s in Computer Applications (MCA) from Measi Institute of Information Technology .
 
                With hands-on experience in MERN stack, Next.js, React.js, and Node.js, I specialize in creating clean, efficient, and user-friendly applications. My journey includes working on task management systems, authentication flows, API development, and UI/UX enhancements.</motion.p>
-              <motion.a variants={childVarients} href={resume} className='text-white hover:text-red-500 ' download  >Download Resume </motion.a>
+              <motion.a variants={childVarients} href={resume} className='text-stone-700 hover:text-red-500 ' download  >Download Resume </motion.a>
             </motion.div>
 
             </div>
